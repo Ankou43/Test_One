@@ -1,0 +1,15 @@
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C/First_example/obj/Debug/net6.0/First_example.csproj.AssemblyReference.cache
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C/First_example/obj/Debug/net6.0/First_example.GeneratedMSBuildEditorConfig.editorconfig
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C/First_example/obj/Debug/net6.0/First_example.AssemblyInfoInputs.cache
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C/First_example/obj/Debug/net6.0/First_example.AssemblyInfo.cs
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C/First_example/obj/Debug/net6.0/First_example.csproj.CoreCompileInputs.cache
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C/First_example/bin/Debug/net6.0/First_example
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C/First_example/bin/Debug/net6.0/First_example.deps.json
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C/First_example/bin/Debug/net6.0/First_example.runtimeconfig.json
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C/First_example/bin/Debug/net6.0/First_example.dll
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C/First_example/bin/Debug/net6.0/First_example.pdb
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C/First_example/obj/Debug/net6.0/First_example.dll
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C/First_example/obj/Debug/net6.0/refint/First_example.dll
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C/First_example/obj/Debug/net6.0/First_example.pdb
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C/First_example/obj/Debug/net6.0/First_example.genruntimeconfig.cache
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C/First_example/obj/Debug/net6.0/ref/First_example.dll

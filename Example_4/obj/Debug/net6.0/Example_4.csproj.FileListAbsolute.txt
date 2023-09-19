@@ -1,0 +1,15 @@
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C/Example_4/obj/Debug/net6.0/Example_4.csproj.AssemblyReference.cache
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C/Example_4/obj/Debug/net6.0/Example_4.GeneratedMSBuildEditorConfig.editorconfig
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C/Example_4/obj/Debug/net6.0/Example_4.AssemblyInfoInputs.cache
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C/Example_4/obj/Debug/net6.0/Example_4.AssemblyInfo.cs
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C/Example_4/obj/Debug/net6.0/Example_4.csproj.CoreCompileInputs.cache
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C/Example_4/bin/Debug/net6.0/Example_4
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C/Example_4/bin/Debug/net6.0/Example_4.deps.json
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C/Example_4/bin/Debug/net6.0/Example_4.runtimeconfig.json
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C/Example_4/bin/Debug/net6.0/Example_4.dll
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C/Example_4/bin/Debug/net6.0/Example_4.pdb
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C/Example_4/obj/Debug/net6.0/Example_4.dll
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C/Example_4/obj/Debug/net6.0/refint/Example_4.dll
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C/Example_4/obj/Debug/net6.0/Example_4.pdb
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C/Example_4/obj/Debug/net6.0/Example_4.genruntimeconfig.cache
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C/Example_4/obj/Debug/net6.0/ref/Example_4.dll
